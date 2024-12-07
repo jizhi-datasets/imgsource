@@ -1,0 +1,1 @@
+color 2 && git add . && git commit -m "add new" && git push && pause;
